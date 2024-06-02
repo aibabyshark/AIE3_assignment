@@ -15,7 +15,7 @@ app_port: 7860
 In this repository, we'll walk you through the steps to create a Large Language Model (LLM) application using Chainlit, then containerize it using Docker, and finally deploy it on Huggingface Spaces.
 
 - 🤝 Breakout Room #1:
-  1. Getting Started
+  1. Getting Started...
   2. Setting Environment Variables
   3. Using the OpenAI Python Library
   4. Prompt Engineering Principles
